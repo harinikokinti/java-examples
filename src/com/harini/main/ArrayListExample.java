@@ -13,7 +13,7 @@ public class ArrayListExample {
 		ArrayList<Employee> employeeList = new ArrayList<>();
 
 		employeeList.add(createEmployee(101, "Harini", 50000));
-		employeeList.add(createEmployee(102, "Dhilli", 80000));
+		employeeList.add(createEmployee(102, "DhilliPrasad", 80000));
 		employeeList.add(createEmployee(103, "Padma", 90000));
 		//employeeList.clone();
 		
